@@ -29,28 +29,28 @@
 
 ### 安装步骤
 
-1. 进入 CentOS
-2. 点击 VM 菜单中的 -> install vmware tools
-3. CentOS 会出现一个 VM 的安装包：xx.tar.gz
-4. 拷贝到 /opt
-5. 使用解压命令 tar，得到一个安装文件
+1. 进入 CentOS；
+2. 点击 VM 菜单中的 -> install vmware tools；
+3. CentOS 会出现一个 VM 的安装包：xx.tar.gz；
+4. 拷贝到 /opt；
+5. 使用解压命令 tar，得到一个安装文件；
     tar -zxvf xx.tar.gz
-6. 进入该 VM 解压目录 /opt 目录下
+6. 进入该 VM 解压目录 /opt 目录下；
     cd vmware..
-7. 安装 ./vmware-install.pl
-8. 全部使用默认设置即可安装成功
+7. 安装 ./vmware-install.pl；
+8. 全部使用默认设置即可安装成功；
 
 注意：
 	安装 VMTools 需要 gcc
 		gcc -v
 
-<img src="D:\Tools\Typora\Document\Linux\基础篇\vmtools_1.png" alt="vmtools_1" style="zoom: 33%;" />
+<img src=".\image\vmtools_1.png" alt="vmtools_1" style="zoom: 33%;" />
 
 ### 设置共享文件夹
 
-1. 菜单 -> vm -> setting，设置选项为 always enable
-2. Windows 和 CentOS 可共享 D:/share 目录，可进行读写文件了
-3. 共享文件夹在 CentOS 的 mnt/hgfs 目录下
+1. 菜单 -> vm -> setting，设置选项为 always enable；
+2. Windows 和 CentOS 可共享 D:/share 目录，可进行读写文件了；
+3. 共享文件夹在 CentOS 的 mnt/hgfs 目录下。
 
 #### 注意事项与细节说明
 

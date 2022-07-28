@@ -21,3 +21,8 @@
 
 地址：<https://www.xshell.com/zh/free-for-home-school/>
 
+## Xftp
+
+> Xftp 是基于 Windows 平台的、功能强大的 SFTP、FTP 文件传输软件。
+>
+> 使用 Xftp 之后，Windows 用户可以安全地在 UNIX / Linux 和 Windows 之间传输文件。

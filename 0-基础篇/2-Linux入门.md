@@ -21,12 +21,12 @@
 
 ### Unix 是怎么来的？
 
-<img src="D:\Tools\Typora\Document\Linux\基础篇\image\unix.png" alt="unix" style="zoom: 67%;" />
+<img src=".\image\unix.png" alt="unix" style="zoom: 67%;" />
 
 ### Linux 是怎么来的？
 
-<img src="D:\Tools\Typora\Document\Linux\基础篇\image\linux.png" alt="linux" style="zoom:67%;" />
+<img src=".\image\linux.png" alt="linux" style="zoom:67%;" />
 
 ### Linux 和 Unix 的关系？
 
-<img src="D:\Tools\Typora\Document\Linux\基础篇\image\linux&unix.png" alt="linux&unix" style="zoom:67%;" />
+<img src=".\image\linux&unix.png" alt="linux&unix" style="zoom:67%;" />

@@ -21,8 +21,8 @@
 
 ## CentOS 安装
 
-1. 使用 VMware Workstation Pro 16 创建一个虚拟机
-2. 开始安装 CentOS 7.6
+1. 使用 VMware Workstation Pro 16 创建一个虚拟机。
+2. 开始安装 CentOS 7.6。
     *随机生成复杂密码：https://suijimimashengcheng.bmcx.com/*
 3. CentOS 安装难点 - 网络连接方式(理解)
 
