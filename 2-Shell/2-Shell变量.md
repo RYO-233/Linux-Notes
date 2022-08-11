@@ -5,20 +5,20 @@
 ## 概述
 
 1. Linux 中 Shell 变量分为：系统变量与自定义变量。
-2. 系统变量：$HOME、$PWD、$SHELL、$USER...
-   如：echo $PWD。
-3. 显示当前 Shell 中所有变量：set。
+2. 系统变量：`$HOME、$PWD、$SHELL、$USER...`
+   如：`echo $PWD`。
+3. 显示当前 Shell 中所有变量：`set`。
 
 ## Shell变量的定义
 
 ### 基本语法
 
 1. 定义变量：
-   variable=value
+   `variable=value`
 2. 撤销变量：
-   unset 变量
+   `unset 变量`
 3. 声明静态变量：
-   readonly 变量
+   `readonly 变量`
 
 ### 定义规则
 
@@ -28,9 +28,9 @@
 
 ### 将命令的返回值赋给变量
 
-1. A=\`date\`(反引号)
+1. `A='date'(反引号)`
    运行里面的命令，并把结果返回给变量 A。
-2. A=$(date)
+2. `A=$(date)`
    等价于方式 1。
 
 ## 案例
