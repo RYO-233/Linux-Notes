@@ -35,5 +35,5 @@
 
 ## 编写第一个Shell脚本
 
-<img src="D:\Tools\Typora\Document\demo\Shell篇\img\2.png" style="zoom:80%;" />
+<img src="./img/2.png" style="zoom:80%;" />
 
