@@ -35,5 +35,5 @@
 
 ## 编写第一个Shell脚本
 
-<img src="./img/2.png" style="zoom:80%;" />
+<img src="./img/p2.jpg" style="zoom:80%;" />
 
